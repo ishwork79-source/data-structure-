@@ -143,7 +143,7 @@ int main()
 
     do
     {
-        printf("\n===== DOUBLY LINKED LIST =====\n");
+        printf("\n= DOUBLY LINKED LIST =\n");
         printf("1. Insert at Beginning\n");
         printf("2. Insert at End\n");
         printf("3. Insert After Given Node\n");
